@@ -12,4 +12,9 @@ Overview:
 
 4. The remaining folders contain the codes for the db connection, bootstrap, javascript,etc.
 
-Any design improvements are highly appreciated! 
+
+
+
+Here's how to run
+
+You add this project to xampp htdocs folder, then create the database in local/phpmyadmin with same name as project name, then run the project as localhost/projectname. MAKE sure to give same name to db.php to connect the datbase. Rest you can change whatever you like. 
